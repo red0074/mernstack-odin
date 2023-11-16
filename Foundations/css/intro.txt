@@ -1,0 +1,4 @@
+ HTML that determines how a web page is structured. The next step is to make that structure look good with some style, which is exactly what CSS is for.
+
+
+<div> must be used for using css
