@@ -1,0 +1,32 @@
+html is the content and layout of the website
+html is used to create a structure to the website
+
+***
+we should always name the html file which contain the home page of out websites as index.html
+this is becuase web servers will by default look for an index.html
+
+
+<html> is the root element of document , meaning that every other elements in document will be a descendant of it 
+
+<html lang="en"> 
+lang is the attribute which specifies the language of text content in that element
+
+<head> where the meta information is presented
+<body> where the main content is present
+<p> paragraph
+<h1> to <h6> headings
+<strong> to get bold texts
+<i> to get italic text
+<ul> unorderedlist
+<ol> orderedlist
+<li> lists
+<a> anchor element
+<a href="nothing.html"> href is an attribute which helps to direct in to another page using link
+<a href="" target ="" rel="" >
+target and rel are the another attributes where target specifies where the preferred file must be opened 
+and rel is used for security purpose
+
+<img> image tag
+src="" source for image
+alt="" alternative msg if image is not loaded
+height ="" width="" size attribute's of image tag
