@@ -2,3 +2,41 @@
 
 
 <div> must be used for using css
+
+syntax of the css
+selector _name {properties:value};
+
+for class selector we use '.'
+for id selectors we use "#"
+
+properties in css:
+color :;for elements text color
+background:; color for elements
+
+font-family:; to set the font
+font-size:; to set size of the font
+font-weight:; thickness of the letters
+text-align:; to align the text using this property
+
+image is also having two properties
+height:; decide height of the image
+widht:; decide the width of image
+
+all values of the properties are in pixels(px)
+
+css can be added to html in three
+ways 
+1)external css:
+create a seperate file and add to html in head using link tag
+
+2)internal css:
+using style tag inside the head tag
+
+3)inline css:
+adding css directly to the elements
+
+specificity rules
+id selector
+class selector
+type selector
+
